@@ -14,7 +14,9 @@ Lo que no entiendo demasiado y no sé cómo modificarlo son los datos de frecuen
 ..........................................................................
 
 -Información sobre la regulación de la frecuencia extraída de:
+
 https://www.electrodaddy.com/incrementando-la-frecuencia-pwm-de-arduino/
 
 -Información del filtro paso bajo extraída de:
+
 http://www.rinconingenieril.es/pwm-salida-analogica/
