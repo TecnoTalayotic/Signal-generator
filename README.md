@@ -7,9 +7,13 @@ En el modo digital tenemos un potenciómetro para regular la amplitud de onda, y
 
 En el modo analógico regulamos la tensión de salida de 0 - 5 Vdc a través de un Pin PWM y un filtro de paso bajo, convirtiendo la señal digital a analógica.
 
+
 Los resultados se imprimen por puerto Serial y solo se modifican si algún valor se modifica.
 
+
 Lo que no entiendo demasiado y no sé cómo modificarlo son los datos de frecuencia, más adelante indagaré en el tema.
+
+
 
 
 
