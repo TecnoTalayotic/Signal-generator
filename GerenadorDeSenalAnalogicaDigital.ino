@@ -49,7 +49,7 @@ void loop()
    anaValue = analogRead(anaPin);          
    anaValueV = fmap(anaValue, 0, 1024, 0.0, 5.0);   
    anaValueP = map(anaValue, 0, 1024, 0, 100); 
-   analogWrite(anaPinS, anaPin);
+
 
    hzValue = analogRead(hzPin);
    hzValueP = map(hzValue, 0, 1024, 0, 14);
@@ -158,6 +158,7 @@ if (hzValueP == hzValuePA)
                           }
   
 analogWrite(3, 15 + digValueD);
+analogWrite(anaPin, anaPinS);
 
 
   if (digValueP != digValuePA or anaValueP != anaValuePA or hzValueP != hzValuePA)
