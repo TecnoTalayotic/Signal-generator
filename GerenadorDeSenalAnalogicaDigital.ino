@@ -1,8 +1,13 @@
 /*
-Generador de señales analógicas y digitales.
+
+///////////////////////////////////////////////////////
+/////Generador de señales analógicas y digitales./////
+////             by. TecnoTalayotic             /////
+////////////////////////////////////////////////////
 
 Capaz de generar señal analógica lineal variable de 0-5Vdc, 
 y una señal digital cuadrada variable en Hz y amplitud de onda. 
+
 */
 
 
